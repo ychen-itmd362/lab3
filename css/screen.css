@@ -223,6 +223,8 @@ ol {
 
 label {
   padding: 5px;
+  font-family: 'Montserrat', sans-serif;
+  color: gray;
 }
 
 h1 {
@@ -231,6 +233,8 @@ h1 {
   text-align: center;
   padding-bottom: 10px;
   padding-top: 30px;
+  font-family: 'Trade Winds', cursive;
+  color: blue;
 }
 
 p {
@@ -238,6 +242,8 @@ p {
   text-align: center;
   padding-bottom: 50px;
   padding-top: 10px;
+  font-family: 'Caladea', serif;
+  color: lightskyblue;
 }
 
 input[type=email] {
