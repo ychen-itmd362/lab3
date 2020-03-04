@@ -204,6 +204,44 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+body {
+  background-color: black;
+  width:100%;
+}
+
+form {
+  background-color: gray;
+  width:50%;
+  padding: 50px;
+  margin: auto;
+}
+
+ol {
+  background-color: lightgray;
+  text-align: center;
+}
+
+label {
+  padding: 5px;
+}
+
+h1 {
+  font-size: 2.5em;
+  padding: 5px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+
+p {
+  font-size: 1.5em;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
