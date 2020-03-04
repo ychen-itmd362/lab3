@@ -235,6 +235,7 @@ h1 {
   padding-top: 30px;
   font-family: 'Trade Winds', cursive;
   color: blue;
+  line-height: 1em;
 }
 
 p {
@@ -256,6 +257,26 @@ input[type=submit] {
 }
 
 /* ===== MODULAR STYLES ===== */
+
+@media screen and (max-width: 700px) {
+  
+  form {
+    width: 100%;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+
+  p {
+    font-size: 1.25em;
+  }
+
+  label {
+    font-size: 1em;
+  }
+} 
 
 /* ===== STATE STYLES ======= */
 
