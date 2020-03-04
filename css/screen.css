@@ -240,7 +240,14 @@ p {
   padding-top: 10px;
 }
 
+input[type=email] {
+  border: none;
+}
 
+input[type=submit] {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
 
 /* ===== MODULAR STYLES ===== */
 
